@@ -1,0 +1,46 @@
+.box{
+    margin:auto;
+    width:100px;
+    height:170px;
+}
+.circle{
+    display:none;
+    width:30px;
+    height:30px;
+    border-radius:50px;
+    position:absolute;
+}
+
+.circle:hover{
+	cursor:pointer;
+}
+
+.fb{
+    background:#3b5999;
+}
+
+.tw{
+    background:#55acee;
+}
+
+.gp{
+    background:#F54F4F;
+}
+
+.li{
+    background:#2B8BCC;
+}
+
+#share{
+    position:absolute;
+    top:80px;
+    width:35px;
+    height:35px;
+    background:#ffffff;
+    border-radius:100px;
+	border:1px solid #55acee;
+}
+
+#share:hover{
+	cursor:pointer;
+}
